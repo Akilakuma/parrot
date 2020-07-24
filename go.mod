@@ -1,4 +1,4 @@
-module parrot
+module github.com/Akilakuma/parrot
 
 go 1.14
 
